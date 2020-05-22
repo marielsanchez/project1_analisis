@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be73b7cc-7a46-46b1-98d5-34cf30b754e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/ClueManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NonogramFiller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/text.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/GridFiller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/Utilities.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/FileManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utilities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/ReadFile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/GridManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/text.cs" />
+        <option value="$PROJECT_DIR$/NonogramFiller.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/Utilities.cs" />
+        <option value="$PROJECT_DIR$/utilities.cs" />
+        <option value="$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/GridFiller.cs" />
+        <option value="$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/ClueManager.cs" />
+        <option value="$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/GridManager.cs" />
+        <option value="$PROJECT_DIR$/../../../Project1_MariellSanchez_KennethSegura/Assets/Scripts/FileManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afvVwWdHLe8UL9HpozPgVLZOvc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NonogramSolver" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NonogramSolver.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be73b7cc-7a46-46b1-98d5-34cf30b754e9" name="Default Changelist" comment="" />
+      <created>1587139496430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587139496430</updated>
+      <workItem from="1587139508498" duration="19535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1225" height="103" key="GridCell.Tab.0.bottom" timestamp="1587186448180">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1225" height="103" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587186448180" />
+    <state width="1225" height="103" key="GridCell.Tab.0.center" timestamp="1587186448180">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1225" height="103" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587186448180" />
+    <state width="1225" height="103" key="GridCell.Tab.0.left" timestamp="1587186448180">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1225" height="103" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587186448180" />
+    <state width="1225" height="103" key="GridCell.Tab.0.right" timestamp="1587186448180">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1225" height="103" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587186448180" />
+  </component>
+</project>

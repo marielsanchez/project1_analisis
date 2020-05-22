@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8735be82-be35-4ea6-b530-3e7d57611ae8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GridFiller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/QuitGame.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utilities.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClueManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FileManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SceneChange.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GridManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameGridManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/QuitGame.cs" />
+        <option value="$PROJECT_DIR$/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Tag.cs" />
+        <option value="$PROJECT_DIR$/Grid_Manager.cs" />
+        <option value="$PROJECT_DIR$/GameSolution.cs" />
+        <option value="$PROJECT_DIR$/Test.cs" />
+        <option value="$PROJECT_DIR$/HintManager.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/ClueManager.cs" />
+        <option value="$PROJECT_DIR$/Utilities.cs" />
+        <option value="$PROJECT_DIR$/GameHintManager.cs" />
+        <option value="$PROJECT_DIR$/GameFileManager.cs" />
+        <option value="$PROJECT_DIR$/SceneChange.cs" />
+        <option value="$PROJECT_DIR$/GameGridManager.cs" />
+        <option value="$PROJECT_DIR$/FileManager.cs" />
+        <option value="$PROJECT_DIR$/GridFiller.cs" />
+        <option value="$PROJECT_DIR$/GridManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YvZrmQr0iYYXVbuh7ERGqFZmyw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8735be82-be35-4ea6-b530-3e7d57611ae8" name="Default Changelist" comment="" />
+      <created>1583825235737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583825235737</updated>
+      <workItem from="1583825258497" duration="182000" />
+      <workItem from="1583825609174" duration="64000" />
+      <workItem from="1583825879586" duration="474000" />
+      <workItem from="1583826516019" duration="66000" />
+      <workItem from="1583826796350" duration="133000" />
+      <workItem from="1583827255956" duration="87000" />
+      <workItem from="1583941400126" duration="3869000" />
+      <workItem from="1584042495730" duration="7912000" />
+      <workItem from="1584197609299" duration="7326000" />
+      <workItem from="1584206036585" duration="664000" />
+      <workItem from="1584294436867" duration="3381000" />
+      <workItem from="1584309119853" duration="6255000" />
+      <workItem from="1584317488489" duration="223000" />
+      <workItem from="1584327981592" duration="622000" />
+      <workItem from="1584343940668" duration="1690000" />
+      <workItem from="1584346247041" duration="1974000" />
+      <workItem from="1584348265215" duration="486000" />
+      <workItem from="1584371656154" duration="1831000" />
+      <workItem from="1584461799989" duration="6168000" />
+      <workItem from="1585013407430" duration="3969000" />
+      <workItem from="1585155457668" duration="2255000" />
+      <workItem from="1585187926289" duration="3816000" />
+      <workItem from="1585193919370" duration="2034000" />
+      <workItem from="1585331439381" duration="1073000" />
+      <workItem from="1585420238234" duration="2881000" />
+      <workItem from="1585546022942" duration="2678000" />
+      <workItem from="1585553266703" duration="20000" />
+      <workItem from="1585553858196" duration="13000" />
+      <workItem from="1587700311981" duration="1192000" />
+      <workItem from="1587921078223" duration="1663000" />
+      <workItem from="1589485635186" duration="1833000" />
+      <workItem from="1589649501347" duration="7471000" />
+      <workItem from="1589738127791" duration="10945000" />
+      <workItem from="1589833602873" duration="9603000" />
+      <workItem from="1589929094180" duration="5227000" />
+      <workItem from="1590028898005" duration="5853000" />
+      <workItem from="1590037298431" duration="8083000" />
+      <workItem from="1590076045562" duration="3579000" />
+      <workItem from="1590079865383" duration="171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="213" y="157" key="run.anything.popup" timestamp="1585020963350">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="213" y="157" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1585020963350" />
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1584197936583">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1584197936583" />
+  </component>
+</project>
